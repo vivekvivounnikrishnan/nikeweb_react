@@ -1,0 +1,32 @@
+#home{
+    background-color: rgb(220, 218, 220);
+}
+#home1{
+    background-color: rgb(255, 255, 255);
+    align-content: center;
+    height: 100px;
+    margin-left: 300px;
+}
+#img{
+    height: 40px;
+    margin-right: 1143px;
+}
+#img1{
+   height: 30px; 
+   margin-top: 20px;
+   width: 40px;
+}
+#icon{
+    margin-left: 50px;
+    padding-left: 50px;
+}
+.fa-solid {
+    margin-top: 20px;
+    margin-left: 10px;
+   font-size: 25px;
+}
+.fa-regular {
+    margin-top: 20px; 
+    margin-left: 20px;
+    font-size: 25px;
+}
